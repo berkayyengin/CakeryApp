@@ -11,8 +11,8 @@
 
 # Time Line ⌛
 - [x] Project Proposal
-- [ ] Project Specifications Report
-- [ ] Analysis Report
+- [x] Project Specifications Report
+- [x] Analysis Report
 - [ ] High-Level Design Report
 - [ ] Presentations and Demonstrations 🎉
 
