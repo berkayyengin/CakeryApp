@@ -13,7 +13,7 @@
 - [x] Project Proposal
 - [x] Project Specifications Report
 - [x] Analysis Report
-- [ ] High-Level Design Report
+- [x] High-Level Design Report
 - [ ] Presentations and Demonstrations 🎉
 
 
